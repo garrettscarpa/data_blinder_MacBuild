@@ -1,0 +1,3 @@
+([('blinding_app',
+   '/Users/gs075/Desktop/Coding_Scripts/Python/Blinding/dist/blinding_app',
+   'EXECUTABLE')],)
